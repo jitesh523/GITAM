@@ -1,0 +1,47 @@
+.login,
+.register {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 200px;
+  min-width: 500px;
+  padding: 30px;
+  background: rgba(52, 52, 52, 0.35);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.9px);
+  -webkit-backdrop-filter: blur(6.9px);
+}
+
+.login h1,
+.register h1 {
+  margin: 10px;
+  color: white;
+}
+
+.login form,
+.register form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  gap: 20px;
+}
+
+input,
+button {
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  transition: ease-out 0.3s;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  color: white;
+  background-color: rgb(55, 55, 55);
+}

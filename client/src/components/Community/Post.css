@@ -1,0 +1,95 @@
+.posts-container {
+  min-width: 1000px;
+  /* max-height: 600px;
+  overflow-y: scroll; */
+  background: rgba(52, 52, 52, 0.35);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.9px);
+  -webkit-backdrop-filter: blur(6.9px);
+}
+
+.post {
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.9px);
+  -webkit-backdrop-filter: blur(6.9px);
+}
+
+.ant-card-body {
+  min-width: 100%;
+  padding: 10px !important;
+}
+
+.post-content {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.post p {
+  font-weight: normal;
+  text-align: left;
+  margin: 0;
+}
+
+.html-div {
+  padding: 20px 20px 20px 50px;
+}
+
+.Post {
+  max-width: 100% !important;
+  border-radius: 0;
+  background: rgb(0, 0, 0);
+  min-height: 500px;
+  max-height: 500px;
+  overflow-y: scroll;
+}
+
+.like-btn {
+  border-radius: 0px;
+  transition: none;
+}
+
+.like-btn:hover {
+  background-color: rgb(255, 88, 116);
+}
+
+.html-div h1,
+.html-div h2,
+.html-div h3,
+.html-div h4,
+.html-div h5,
+.html-div h6,
+.html-div p,
+.html-div ol,
+.html-div ul {
+  font-weight: normal;
+  text-align: left;
+  color: white;
+}
+.html-div li {
+  /* display: block; */
+}
+
+.edit-btn {
+  margin-bottom: 5px;
+  margin-right: 10px;
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  max-width: 30%;
+  transition: ease-out 0.3s;
+}
+
+.edit-btn:hover {
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+}

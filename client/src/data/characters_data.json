@@ -1,0 +1,280 @@
+{
+  "sections": [
+    {
+      "name": "Monkey D. Luffy",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-86a6872cb7874b8d5659e2e86343d3f0",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "May 5",
+      "age": "19 Years",
+      "devil_fruit_user": "Devil fruit user",
+      "fruit": "Gomu Gomu no Mi (Gum-Gum Fruit)",
+      "powers": [
+        { "key": "gear2", "value": "Gear Second" },
+        { "key": "gear3", "value": "Gear Third" },
+        { "key": "gear4", "value": "Gear Fourth: Boundman" },
+        { "key": "gear4_snake", "value": "Gear Fourth: Snake Man" },
+        { "key": "gear4_tank", "value": "Gear Fourth: Tank Man" }
+      ]
+    },
+    {
+      "name": "Roronoa Zoro",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg",
+      "bounty": "1,500,000,000 berries",
+      "dob": "November 11",
+      "age": "21 Years",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": [
+        { "key": "santoryu", "value": "Santoryu (Three-Sword Style)" },
+        { "key": "asura", "value": "Asura" },
+        { "key": "oni_giri", "value": "Oni Giri" },
+        { "key": "tatsumaki", "value": "Tatsumaki" },
+        {
+          "key": "santoryu_ogon_kaze",
+          "value": "Santoryu: Ogon Kaze (Three-Sword Style: Golden Lion)"
+        }
+      ]
+    },
+    {
+      "name": "Nami",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://staticg.sportskeeda.com/editor/2023/03/db4a7-16794903658032-1920.jpg",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "July 3",
+      "age": "20 Years",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": [
+        { "key": "clima_tact", "value": "Clima-Tact" },
+        { "key": "weatheria", "value": "Weatheria Technology" },
+        { "key": "mirage_tempo", "value": "Mirage Tempo" },
+        { "key": "thunder_tempo", "value": "Thunder Tempo" }
+      ]
+    },
+    {
+      "name": "Usopp",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-6e7d5367d76fb66385ec2b9c48c598a7-pjlq",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "April 1",
+      "age": "19 Years",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": [
+        { "key": "pop_green", "value": "Pop Green" },
+        { "key": "sniper_king", "value": "Sniper King" },
+        { "key": "haki", "value": "Observation Haki (Awakening)" }
+      ]
+    },
+    {
+      "name": "Sanji",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMFq1e6FNbmqtBXvIum4RONukRDS_EMZL2iAB90RcpA&s",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "March 2",
+      "age": "21 Years",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": [
+        { "key": "black_leg_style", "value": "Black Leg Style" },
+        { "key": "haki", "value": "Armament Haki" },
+        { "key": "sky_walk", "value": "Sky Walk" }
+      ]
+    },
+    {
+      "name": "Brook",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWg7bj5ecP2OzScMK0bfUS5cE7jcNTd2IFYcGxebAMxg&s",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "April 3",
+      "age": "90+ Years (Soul in a Skeleton)",
+      "devil_fruit_user": "Devil fruit user",
+      "fruit": "Yomi Yomi no Mi (Revive-Revive Fruit)",
+      "powers": [
+        { "key": "soul_solid", "value": "Soul Solid" },
+        { "key": "yomi_yomi_no_mi", "value": "Yomi Yomi no Mi Abilities" },
+        { "key": "music", "value": "Musician Skills" }
+      ]
+    },
+    {
+      "name": "Franky",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://beta.dopple.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FLBWXYQ-XnKSYxbZ-NuYGqQ%2Fe0177b26-0475-49a8-74db-3764bead5e00%2Fbanner&w=2048&q=75",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "March 9",
+      "age": "36 Years",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": [
+        { "key": "cyborg_modifications", "value": "Cyborg Modifications" },
+        { "key": "franky_shogun", "value": "Franky Shogun" },
+        { "key": "coup_de_vent", "value": "Coup de Vent" }
+      ]
+    },
+    {
+      "name": "Jimbei",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://lh5.googleusercontent.com/-yMNgrU2YOjgwzGy2VoK5eZq7Rz6PmH8HtMVLHdAzdIve1Hlp0wbp5ONyQchc5XSlPxAoJjWwePUotQQOQND-HBMoP9gjiKmWOkcr2u661htgvKnqU9vZZNM8OQ4d8cKzZXTo2GpSJr6gCGColRQ0pQ",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "April 2",
+      "age": "46 Years",
+      "devil_fruit_user": "Fish-Man Karate",
+      "fruit": "-",
+      "powers": [
+        { "key": "fishman_karate", "value": "Fish-Man Karate" },
+        { "key": "haki", "value": "Armament Haki" },
+        {
+          "key": "fishman_karate_techniques",
+          "value": "Fish-Man Karate Techniques"
+        }
+      ]
+    },
+    {
+      "name": "Nico Robin",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://redeardente.com/wp-content/uploads/2023/04/Nico-Robin.webp",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "February 6",
+      "age": "30 Years",
+      "devil_fruit_user": "Devil fruit user",
+      "fruit": "Hana Hana no Mi (Flower-Flower Fruit)",
+      "powers": [
+        { "key": "hana_hana_no_mi", "value": "Hana Hana no Mi Abilities" },
+        { "key": "clutch", "value": "Clutch" },
+        { "key": "gigantesco_manos", "value": "Gigantesco Mano (Giant Hands)" }
+      ]
+    },
+    {
+      "name": "Tony Tony Chopper",
+      "crew_name": "Straw Hat Pirates",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySSOuxulThvTAstS1JpLWaKD_YXvkX1d8hXeSLgu3yw&s",
+      "bounty": "TBD (To Be Determined)",
+      "dob": "December 24",
+      "age": "17 Years",
+      "devil_fruit_user": "Devil fruit user",
+      "fruit": "Hito Hito no Mi (Human-Human Fruit)",
+      "powers": [
+        { "key": "rumble_ball", "value": "Rumble Ball" },
+        { "key": "hito_hito_no_mi", "value": "Hito Hito no Mi Abilities" },
+        { "key": "monster_point", "value": "Monster Point" }
+      ]
+    },
+    {
+      "name": "Trafalgar D. Water Law",
+      "crew_name": "Heart Pirates",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CFx6G8fECk4nFXhyvkkJi3OYtYJnmR_tDJN3gz2g-Q&s",
+      "bounty": "500,000,000 berries",
+      "dob": "October 6",
+      "age": "26 Years",
+      "devil_fruit_user": "Devil fruit user",
+      "fruit": "Ope Ope no Mi (Op-Op Fruit)",
+      "powers": [
+        { "key": "room", "value": "Room" },
+        { "key": "shambles", "value": "Shambles" },
+        { "key": "counter_shock", "value": "Counter Shock" },
+        { "key": "gamma_knife", "value": "Gamma Knife" }
+      ]
+    },
+    {
+      "name": "Bepo",
+      "crew_name": "Heart Pirates",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzevk3v7JOZwt4Bcgih62D0oWBXBn7RUXjZPINRb_AJg&s",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Jean Bart",
+      "crew_name": "Heart Pirates",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZQH4fj1fr0SzLGF2-Xsy3WpejHQYf4xb7tAbkZ2imw&s",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Shachi",
+      "crew_name": "Heart Pirates",
+      "image": "https://i.pinimg.com/736x/b9/00/3b/b9003b12f204dd1386d6d2e8f9d179f0.jpg",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Penguin",
+      "crew_name": "Heart Pirates",
+      "image": "https://pbs.twimg.com/media/FIqFJq3acAMvaqS.jpg:large",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Red-Haired Shanks",
+      "crew_name": "Red Hair Pirates",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/03/is-shanks-evil-in-one-piece.jpg",
+      "bounty": "Unknown",
+      "dob": "March 9",
+      "age": "39 Years",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Benn Beckman",
+      "crew_name": "Red Hair Pirates",
+      "image": "https://cdn.shopify.com/s/files/1/0609/7122/1152/files/Benn-Beckman.jpg?v=1684541909",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Yasopp",
+      "crew_name": "Red Hair Pirates",
+      "image": "https://i.pinimg.com/736x/12/4d/f0/124df04d76e4def3944b24becf22966c.jpg",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Lucky Roux",
+      "crew_name": "Red Hair Pirates",
+      "image": "https://lh3.googleusercontent.com/x_ZV0nb0isffUTSfqAD3xN_0tFRs9qII0dn-y0q50OTCetM1gVbF4JkkfbTcRZnYiQCSJbPGcVrLgE4WnU4FU8tLhfJTjqOScXhJxjVFhNvZT8NgQcuFBlJDTp3D3w8DtZaoDrgZKB20j2GCvEhBmCw",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    },
+    {
+      "name": "Rockstar",
+      "crew_name": "Red Hair Pirates",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/Rockstar.jpg",
+      "bounty": "Unknown",
+      "dob": "Unknown",
+      "age": "Unknown",
+      "devil_fruit_user": "Not a devil fruit user",
+      "fruit": "-",
+      "powers": []
+    }
+  ]
+}
